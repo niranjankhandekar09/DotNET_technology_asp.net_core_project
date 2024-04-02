@@ -1,0 +1,54 @@
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\SqlQueries.xml
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.deps.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\refint\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\ref\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\SqlQueries.xml
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.deps.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\refint\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\ref\RepositoryLayers.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\SqlQueries.xml
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.deps.json
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.runtimeconfig.json
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\RepositoryLayers.pdb
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.AssemblyInfo.cs
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.csproj.CopyComplete
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\refint\RepositoryLayers.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.pdb
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\RepositoryLayers.genruntimeconfig.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\RepositoryLayers\obj\Debug\net6.0\ref\RepositoryLayers.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E-Pet Shop BE In Entity Framework.props" />
+</Project>

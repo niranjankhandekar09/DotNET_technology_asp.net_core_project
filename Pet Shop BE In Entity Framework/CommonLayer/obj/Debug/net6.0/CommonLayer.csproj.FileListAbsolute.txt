@@ -1,0 +1,42 @@
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.deps.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\refint\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\E Medical BE In Entity Framework\CommonLayer\obj\Debug\net6.0\ref\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.deps.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\refint\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Pet Shop\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\ref\CommonLayer.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.deps.json
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.runtimeconfig.json
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\refint\CommonLayer.dll
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.pdb
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\CommonLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\Dummy\DotNETfinal\Pet Shop BE In Entity Framework\CommonLayer\obj\Debug\net6.0\ref\CommonLayer.dll
